@@ -29,7 +29,7 @@ I'm an enthusiastic and detail-oriented Frontend developer seeking an entry-leve
 
 ---
 
-### Code example
+## Code example
 
 ```
 function getCommonElements(firstArray, secondArray) {
@@ -45,7 +45,7 @@ function getCommonElements(firstArray, secondArray) {
 
 ---
 
-### Education
+## Education
 
 Simon Kuznets Kharkiv National University of Economics
 
@@ -55,11 +55,11 @@ Information systems and technologies (2002-2007)
 
 ---
 
-### Experience
+## Experience
 
 ---
 
-### Languages
+## Languages
 
 - English - Intermediate
 - Russian - native
