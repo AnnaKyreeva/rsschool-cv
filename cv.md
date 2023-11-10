@@ -26,7 +26,8 @@ I'm an enthusiastic and detail-oriented Frontend developer seeking an entry-leve
 
 ### Code example
 
-```function getCommonElements(firstArray, secondArray) {
+```
+function getCommonElements(firstArray, secondArray) {
     const commonElements = [];
     firstArray.forEach(item => {
         if (secondArray.includes(item)) {
